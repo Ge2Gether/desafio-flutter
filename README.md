@@ -26,3 +26,6 @@ Após efetuar o trabalho encaminhar o commit para um ramo com seu nome.
 
 Criar um apk que possa ser utilizado em dispositivos sem a necessidade de baixar da store para nossos testes.
 
+# Dúvidas
+
+Para dúvidas entrar em contato glauber.portella@ge2gether.com
