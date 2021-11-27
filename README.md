@@ -6,7 +6,7 @@ O desafio abaixo é para ser executado em sua máquina local e após finalizado 
 
 Em nosso app flutter iremos aprimorar nossa tela de chat com a seguinte UI:
 
-![Tela Chat](https://github.com/Ge2Gether/desafio-flutter/blob/master/doc/tela-chat.jpg?raw=true)
+![Tela Chat](https://github.com/Ge2Gether/desafio-flutter/blob/main/doc/tela-chat.jpg?raw=true)
 
 Seu trabalho é então:
 
